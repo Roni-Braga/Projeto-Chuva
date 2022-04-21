@@ -34,7 +34,19 @@ ul li {
 	padding: 5px;
 	border-bottom: solid 1px gray;
 	padding-left: 20px;
+
+
+
 }
+ul li a{
+	text-decoration: none;
+	color: gray;
+}
+ul li:hover{
+	background-color: #F8F8FF;
+}
+
+
 .idioma{
 	width: 100px;
 	margin-left: 70px;
@@ -43,7 +55,7 @@ ul li {
 .titulo{
 	width: 600px;
 	margin-left: 20px;
-	margin-top: 10px;
+	font-size: 20px;
 
 }
 .login{
@@ -67,6 +79,10 @@ ul li {
 	margin-top: 20px;
 	text-align: center;
 	margin-left: 80px;
+	
+}
+.opcao A{
+	text-decoration: none;
 	color: orange;
 }
 header{
@@ -153,7 +169,7 @@ footer{
 	width: 1050px;
 	box-shadow: 0 0 0.1em gray;
 	margin-left: 30px;
-	height: 101px;
+	height: 150px;
 	display: flex;
 	flex-wrap: nowrap;
 }
