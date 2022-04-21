@@ -6,6 +6,6 @@ Sinto que a jornada apenas começou, tive dificuldades principalmente na parte d
 Mais usando as técnicas necessárias conseguir concluir, principalmente usando o @media query
 A divisão do layout na tela fica mais tranquila de entender quando temos o FLEX-BOX para nois auxiliar.
 Gostei muito do resultado final e espero que vocês também gostem.
-#Feramentas 
+# Feramentas 
 Para concluir o projeto foi utilizado o editor de texto SUBLIME TEXT 3, já venho a algum tempo usando ele e gostei muito.
 É fácil, didático e muito eficiente.
